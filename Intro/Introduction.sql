@@ -1,0 +1,9 @@
+-- Introduction of sql
+-- sql full form is (structured query language)
+-- used fro talking with data bases 
+-- 	Sub-Language	Full Form	Purpose	Example Commands
+-- 1	DDL	Data Definition Language	Used to define or change the structure of the database (tables, schemas, etc.)	CREATE, ALTER, DROP, TRUNCATE, RENAME
+-- 2	DML	Data Manipulation Language	Used to manipulate data inside tables	INSERT, UPDATE, DELETE
+-- 3	DQL	Data Query Language	Used to fetch or query data from tables	SELECT
+-- 4	DCL	Data Control Language	Used to control access/permissions on the database	GRANT, REVOKE
+-- 5	TCL	Transaction Control Language	Used to manage transactions (save or undo changes)	COMMIT, ROLLBACK, SAVEPOINT
