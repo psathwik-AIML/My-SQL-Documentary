@@ -1,0 +1,7 @@
+-- Data Types 
+-- 1.int 
+-- 2.decimal(10,2) 
+-- 3.char(5) fixed length
+-- 4.varchar(30) variable length
+-- 5.time
+-- 6.date
