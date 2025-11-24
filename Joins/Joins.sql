@@ -1,0 +1,8 @@
+-- joins 
+-- joins are used to combine tables 
+-- types:
+-- 1.inner join
+-- 2.left join
+-- 3.right join
+-- 4.full outer join (not supported in mysql)
+-- 5.self join
