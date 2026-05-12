@@ -1,0 +1,2 @@
+-- This i my new Mysql Course
+-- use full for future references 
