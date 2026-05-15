@@ -1,0 +1,6 @@
+-- Constraints are rules applied on table column
+-- 1.primary key - unique and not null
+-- 2.Unique - no duplicates
+-- 3.not null - no null values in column
+-- 4.check - condition checking 
+-- 5.default - default values 
